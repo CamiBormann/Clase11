@@ -5,12 +5,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Camila Bormann Carrero :p </title>
+    <title>Camila  Bormann Carrero :p </title>
     <link href="Style.css" rel="stylesheet" />
 </head>
 
 <body><div>
-            <h1>Camila Bormann Carrero</h1>
+            <h1>Camila Andrea Bormann Carrero</h1>
             <img src="/IMG/ip.jpg" width="300" height="200"  alt="banner" />
             <h2>Ir a Pagina Web 1</h2>
         </div>
