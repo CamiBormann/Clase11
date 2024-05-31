@@ -13,6 +13,11 @@
         <div>
         <asp:Button ID="Button1" runat="server" Text="Volver al Index" OnClick="Button1_Click" BackColor="Purple" />
         </div>
+        <h4> Ingrese numeros enteros separados por guion</h4>
+        <asp:TextBox ID= "Txt1" runat="server" ></asp:TextBox>
+        <br />
+        <asp:Button ID="Button2" runat="server" Text="Calcular Vector" OnClick="Button1_Click" BackColor="LigthGreen" />
+
     </form>
 </body>
 </html>

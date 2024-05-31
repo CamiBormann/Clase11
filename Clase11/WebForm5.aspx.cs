@@ -16,6 +16,11 @@ namespace Clase11
             {
                 Response.Redirect("Index.aspx");
             }
-        
+
+            protected void Button2_Click(object sender, EventArgs e)
+            {
+            Response.Redirect("Index.aspx");
+            }
+
     }
 }
