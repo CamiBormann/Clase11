@@ -44,6 +44,9 @@
             <div>
                 <asp:Button ID="Button6" runat="server" OnClick="Button6_Click" Text="Ejemplos de Arrays y Vectores" BackColor="Purple" />
             </div>
+            <div>
+                <asp:Button ID="Button7" runat="server" OnClick="Button7_Click" Text="Biografia Camila Bormann" BackColor="LavenderBlush"
+            </div>
         </form>
    
 </body>

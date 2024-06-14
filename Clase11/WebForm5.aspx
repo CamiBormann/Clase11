@@ -11,13 +11,24 @@
     <form id="form1" runat="server">
         <h1>Arrays y Vectores</h1>
         <div>
-        <asp:Button ID="Button1" runat="server" Text="Volver al Index" OnClick="Button1_Click" BackColor="Purple" />
+        
         </div>
         <h4> Ingrese numeros enteros separados por guion</h4>
         <asp:TextBox ID= "Txt1" runat="server" ></asp:TextBox>
         <br />
-        <asp:Button ID="Button2" runat="server" Text="Calcular Vector" OnClick="Button1_Click" BackColor="LigthGreen" />
-
+        <br />
+        <asp:Button ID="Button2" runat="server" Text="Calcular Vector" OnClick="Button2_Click" BackColor="Purple" />
+        <br />
+        <br />
+        <asp:Label ID="LabelCalcular" runat="server" Text="Resultado"></asp:Label>
+        <br />
+        <br />
+        <asp:Label ID="LabelPromedio" runat="server" Text="Resultado Promedio" ></asp:Label>
+        <br />
+        <br />
+        <asp:Button ID="Button3" runat="server" Text="Volver al Inicio" OnClick="Button3_Click" BackColor="Purple" />
+        <br />
+        <br />
     </form>
 </body>
 </html>
