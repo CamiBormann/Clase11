@@ -53,7 +53,9 @@ namespace Clase11
             Response.Redirect("WebForm6.aspx");
         }
 
-
-
+        protected void Button8_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("WebForm7.aspx");
+        }
     }
 }
