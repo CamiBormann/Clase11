@@ -97,7 +97,7 @@
             <hr />
             <div>
             <h2>Ir a Pagina Web 6 </h2>
-                <asp:Button ID="Button7" runat="server" OnClick="Button7_Click" Text="Tipos de Variables: Locales" BackColor="Purple" />
+                <asp:Button ID="Button7" runat="server" OnClick="Button7_Click" Text="Tipos de Variables: Locales-Globales-Estaticas" BackColor="Purple" />
             <hr />
             </div>
             <h2>Ir a Pagina Web 7</h2>

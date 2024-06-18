@@ -76,6 +76,7 @@
          <div></div>
         <asp:Button ID="Button7" runat="server" OnClick="btnConcatenar_Click" Text="Concatenar" BackColor="Green" />
         <div></div>
+        <br />
         <asp:Button ID="Button6" runat="server" OnClick="btnVolver_Click" Text="Volver al Index" BackColor="Red" />
 
     </form>

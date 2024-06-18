@@ -121,8 +121,8 @@
             <asp:Label ID="label5" runat="server"></asp:Label>
         </div>
 
-        Volver <asp:Label ID="label6" runat="server"></asp:Label>
-
+        
+        <br />
         <div>
             <asp:Button ID="Button6" runat="server" OnClick="btnVolver_Click" Text="Volver al Index" BackColor="Red" />
         </div>

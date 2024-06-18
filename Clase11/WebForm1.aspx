@@ -98,6 +98,7 @@
             <div></div>
             <asp:Button ID="Button5" runat="server" OnClick="btnCalcular_Click" Text="Calcular" BackColor="Green" />
             <div></div>
+            <br />
             <asp:Button ID="Button6" runat="server" OnClick="btnVolver_Click" Text="Volver al Index" BackColor="Red" />
         </form>
    

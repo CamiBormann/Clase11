@@ -92,6 +92,7 @@
             <asp:Button ID="Button2" runat="server" Text="Calcular" OnClick="Button2_Click" BackColor="Blue" />
         </div>
         <br />
+        <br />
         <div>
             <asp:Button ID="Button1" runat="server" Text="Volver al Index" OnClick="Button1_Click" BackColor="Red" />
         </div>

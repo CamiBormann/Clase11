@@ -77,7 +77,7 @@
         <asp:Label ID="LabelPromedio" runat="server" Text="Resultado Promedio" ></asp:Label>
         <br />
         <br />
-        <asp:Button ID="Button3" runat="server" Text="Volver al Inicio" OnClick="Button3_Click" BackColor="Purple" />
+        <asp:Button ID="Button3" runat="server" Text="Volver al Inicio :)" OnClick="Button3_Click" BackColor="Purple" />
         <br />
         <br />
     </form>

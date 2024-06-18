@@ -53,14 +53,14 @@
            <br /> <h2> <asp:Label ID="lblTitulo" runat="server" Text="Hola Mi nombre es Camila Bormann" ></asp:Label></h2>
             <br />
             
-            <asp:Label ID="lblSubtitulo" runat="server" Text="Mamá,Estudiante y Trabajadora"></asp:Label>
+            <asp:Label ID="lblSubtitulo" runat="server" Text= "Estudiante y Trabajadora"></asp:Label>
             <br />
             <br />
             <asp:Label ID="lblContenido" runat="server" 
-                Text="Tengo 26 años actualmente estudio programación. Me titule de un liceo tecnico,con mención en Administración.
+                Text="Tengo 26 años actualmente estudio Analista Programador Computacional,en el Instituto Profesional de Chile. Me titule de un liceo tecnico,con mención en Administración.
                 Trabajo como administrativa en la Clínica Las Condes para una empresa que presta servicios en mantenimiento,
                 en especifico en las areas de Infraestructura,electricidad y climatizacion. 
-                No he trabajado en el area de Programacion,pero sin embargo tengo cursos en Ofimatica,como excel,power bi,word,office 365 etc" ></asp:Label>
+                No he trabajado en el area de Programacion,pero sin embargo tengo cursos en Ofimatica,como excel,power bi,word,office 365 etc". ></asp:Label>
    
             <div>
                 <br />

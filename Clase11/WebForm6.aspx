@@ -64,7 +64,7 @@ form {
         <h1>Tipos de Variables</h1>
         <br />
 
-            <asp:Button ID="btnMostrarVariables" runat="server" Text="Mostrar Variables" OnClick="btnMostrarVariables_Click" BackColor="Pink"/>
+            <asp:Button ID="btnMostrarVariables" runat="server" Text="Mostrar Variables" OnClick="btnMostrarVariables_Click" BackColor="Purple"/>
             <br />
             <div></div>
             <hr />
@@ -80,7 +80,7 @@ form {
             <br />
             <div></div>
             <hr />
-            <asp:Button ID="btnVolver" runat="server" Text="Volver al Inicio :) " OnClick="btn_VolverClick" BackColor="Pink"/>
+            <asp:Button ID="btnVolver" runat="server" Text="Volver al Inicio :) " OnClick="btn_VolverClick" BackColor="Purple"/>
 
             <div></div>
          
