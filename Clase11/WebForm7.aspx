@@ -53,8 +53,10 @@
         
   <h1>Biografia Personal&Profesional </h1>
             
-            
+            <img src="/IMG/ip.jpg" width="100" height="100"  alt="banner" />
             <br />
+            <br />
+            <hr />
             <img src="/IMG/yo.jpg" width="250" height="300" alt="foto" />
            <br /> <h2> <asp:Label ID="lblTitulo" runat="server" Text="Hola ,Mi nombre es Camila Bormann" ></asp:Label></h2>
             <br />
