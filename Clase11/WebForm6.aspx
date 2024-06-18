@@ -60,6 +60,7 @@ form {
 
     </style>
     <form id="form1" runat="server">
+        <img src="/IMG/ip.jpg" width="200" height="200"  alt="banner" /> 
         <div>
         <h1>Tipos de Variables</h1>
         <br />

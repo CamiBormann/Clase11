@@ -15,7 +15,7 @@
         padding: 0;
          align-items: center;
          justify-content: center;
-         background-color: lightpink;
+         background-color: white;
         }
 
         .form-field {

@@ -60,6 +60,7 @@
 
             </style>
     <form id="form1" runat="server">
+        <img src="/IMG/ip.jpg" width="200" height="200"  alt="banner" /> 
         <h1>Arrays y Vectores</h1>
         <div>
         

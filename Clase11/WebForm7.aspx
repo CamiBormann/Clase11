@@ -37,30 +37,35 @@
         .image-container {
             margin-top: 20px;
         }
+        .form-field {
+        margin-bottom: 40px;
+         }
+
         .image-container img {
             max-width: 100%;
             height: auto;
             display: block;
             margin: 0 auto;
         }
+
     </style>
     <form id="form1" runat="server">
         
   <h1>Biografia Personal&Profesional </h1>
-
-            <img src="/IMG/yo.jpg" width="250" height="300" alt="banner" />
+            
+            
             <br />
-           <br /> <h2> <asp:Label ID="lblTitulo" runat="server" Text="Hola Mi nombre es Camila Bormann" ></asp:Label></h2>
+            <img src="/IMG/yo.jpg" width="250" height="300" alt="foto" />
+           <br /> <h2> <asp:Label ID="lblTitulo" runat="server" Text="Hola ,Mi nombre es Camila Bormann" ></asp:Label></h2>
             <br />
             
-            <asp:Label ID="lblSubtitulo" runat="server" Text= "Estudiante y Trabajadora"></asp:Label>
+            <asp:Label ID="lblSubtitulo" runat="server" Text= "Mamá,Estudiante y Trabajadora"></asp:Label>
             <br />
             <br />
-            <asp:Label ID="lblContenido" runat="server" 
-                Text="Tengo 26 años actualmente estudio Analista Programador Computacional,en el Instituto Profesional de Chile. Me titule de un liceo tecnico,con mención en Administración.
+            <asp:Label ID="lblContenido" runat="server" Text= "Tengo 26 años actualmente estudio Analista Programador Computacional,en el Instituto Profesional de Chile. 
+                Me titule de un liceo tecnico,con mención en Administración.
                 Trabajo como administrativa en la Clínica Las Condes para una empresa que presta servicios en mantenimiento,
-                en especifico en las areas de Infraestructura,electricidad y climatizacion. 
-                No he trabajado en el area de Programacion,pero sin embargo tengo cursos en Ofimatica,como excel,power bi,word,office 365 etc". ></asp:Label>
+                en especifico en las areas de Infraestructura,electricidad y climatizacion." ></asp:Label>
    
             <div>
                 <br />
