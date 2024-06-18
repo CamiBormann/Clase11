@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="IMG\yo.jpg" />
     <Content Include="IMG\calcu.jpg" />
     <Content Include="IMG\cinta.jpg" />
     <Content Include="IMG\ip.jpg" />

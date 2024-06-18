@@ -9,6 +9,57 @@
     <link href="Style.css" rel="stylesheet" />
 </head>
 <body>
+    <style>
+        body {
+        font-family: Calibri, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: lightpink;
+        }
+
+        .form-field {
+            margin-bottom: 40px;
+        }
+
+        .contenedor {
+            padding-left: 20%;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"], input[type="email"], textarea {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            padding: 10px 20px;
+            background-color: lightpink;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #45a049;
+            }
+
+        form {
+            width: 800px;
+        }
+
+
+            </style>
     <form id="form1" runat="server">
         <div>
             <h1>Pagina 3- Camila Bormann Carrero</h1>
